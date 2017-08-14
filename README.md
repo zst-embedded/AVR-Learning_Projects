@@ -13,6 +13,8 @@ Project                                            | Done on    | Category      
 [SPI_USI-max7219-attiny84]                         | 2017-01-18 | SPI (USI module)   | MAX7219 + 8x8 LED Matrix
 [USART-atmega328]                                  | 2016-10-08 | USART              | LED, Push Button
 [USART-attiny4313]                                 | 2017-01-01 | USART              | LED
+[PWM-ADC-LCD-attiny84]                             | 2016-12-04 | PWM, ADC, Interfacing | HD44780 LCD display, Potentiometer
+[I2C_USI-LCD_PCF8574-DHT11-attiny85]               | 2017-02-02 | I2C (USI module), Interfacing | DHT11 sensor, HD44780 LCD display + PCF8574 Backpack
 
 *CLion template project used: [Template]*
 
@@ -32,3 +34,5 @@ The following are some well-written learning resources which have helped me get 
 [Template]: ./Template
 [USART-atmega328]: ./USART-atmega328
 [USART-attiny4313]: ./USART-attiny4313
+[PWM-ADC-LCD-attiny84]: ./PWM-ADC-LCD-attiny84
+[I2C_USI-LCD_PCF8574-DHT11-attiny85]: ./I2C_USI-LCD_PCF8574-DHT11-attiny85
